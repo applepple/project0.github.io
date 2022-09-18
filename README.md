@@ -3,9 +3,6 @@
 A quick overview of the first assignment of CS50 Web Programming: a simple clone of Google Search, Google Advanced Search and Google Images purely made with HTML and SCSS.
 
 
-## Youtube Video
-A short video where I go through the required specifications of the project: https://www.youtube.com/watch?v=VnJctVoojwc
-
 ## Assignment specification
 - **Pages**. Your website should have at least three pages: one for Google Search, one for Google Image Search, and one for Google Advanced Search.
     - On the Google Search page, there should be links in the upper-right of the page to go to Image Search or Advanced Search. On each of the other two pages, there should be a link in the upper-right to go back to Google Search.
